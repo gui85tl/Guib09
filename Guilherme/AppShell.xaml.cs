@@ -1,6 +1,6 @@
 ﻿namespace Guilherme;
 
-public partial class AppShell : Shell
+public class
 {
 	public AppShell()
 	{

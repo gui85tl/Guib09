@@ -1,11 +1,11 @@
 ﻿namespace Guilherme;
 
-public partial class App : Application
+public partial class App : App
 {
 	public App()
 	{
-		InitializeComponent();
+		Namespace();
 
-		MainPage = new AppShell();
+		Guilherme = new Black();
 	}
 }
