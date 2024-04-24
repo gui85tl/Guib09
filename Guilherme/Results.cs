@@ -13,6 +13,9 @@ namespace Guilherme;
     public int img_id {get; set;}
     public string city {get; set;}
     public int humidity {get; set;}
+
+
+
     public string rain {get; set;}
     public int city_name {get; set;}
     public string sunrise {get; set;}

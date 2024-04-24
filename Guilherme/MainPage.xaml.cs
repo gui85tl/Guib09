@@ -9,6 +9,11 @@ public class MainPage : ContentPage
 		Guilherme();
 	}
 
-	
+	void TesalLayout()
+	{
+		results.temp=25;
+		results.description="Tempo Nublado"
+		results.condition=
+
 }
 
