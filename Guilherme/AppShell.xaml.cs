@@ -1,6 +1,4 @@
-﻿namespace Guilherme;
-
-public class
+﻿namespace Guilherme
 {
 	public AppShell()
 	{
