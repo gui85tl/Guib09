@@ -9,7 +9,30 @@
          Margin= "20"
          HorizontalStackLayout="20"
          TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
 
+     <VerticalStackLayout/>    
+
+   <Grid>
+       <Grid.Row.Definitions>
+       <RowDefinition Height="*"/>
+       <RowDefinition Height="80"/>
+       <RowDefinition Height="80"/>
+       <RowDefinition Height="*"/>
+       <RowDefinition Height="200"/></Grid.RowDefinitions>
+       <GridColumnDefinitions>
+       <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+         <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions><RowDefinition Height="*"/>
+                 <GridRowDefinitions><RowDefinition Height="*"/>
 
 
 
