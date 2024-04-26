@@ -17,23 +17,26 @@
 
    <Grid>
        <Grid.Row.Definitions>
-       <RowDefinition Height="*"/>
-       <RowDefinition Height="80"/>
-       <RowDefinition Height="80"/>
-       <RowDefinition Height="*"/>
-       <RowDefinition Height="200"/></Grid.RowDefinitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
        <GridColumnDefinitions>
-       <ColumnDefinition Width="*"/>
-        <ColumnDefinition Width="*"/>
-         <ColumnDefinition Width="*"/>
           <ColumnDefinition Width="*"/>
-          <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
           <Frame Grid.Row="1"
                  Grid.Column="0">
                  <Grid>
-                 <GridRowDefinitions><RowDefinition Height="*"/>
-                 <GridRowDefinitions><RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
 
-
-
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
 </ContentPage>
