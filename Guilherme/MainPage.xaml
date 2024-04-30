@@ -39,4 +39,330 @@
 
            <Label X:Name="Labeltemp"
                   Grid.Row="0"/>
+<Grid>
+        <Image Source="humidity.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+
+     <VerticalStackLayout/>    
+<Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+<Grid>
+        <Image Source="cloudiness.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+<Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+<Grid>
+        <Image Source="moonphase.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+<Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+ <Grid>
+        <Image Source="rain.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+<Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+ <Grid>
+        <Image Source="sunrise.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+<Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/> 
+ <Grid>
+        <Image Source="time.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+         <Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+ <Grid>
+        <Image Source="timezone.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+<Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+ <Grid>
+        <Image Source="windy.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+         <Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+ <Grid>
+        <Image Source="humidity.jpg"/>
+        <Label Text= "Black"
+         Margin= "20"
+         HorizontalStackLayout="20"
+         TextColor ="20"/>
+         <Label Text="Olá"
+         TextColor="Black"
+         Margin="20"/>
+<Grid>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions>
+          <Frame Grid.Row="1"
+                 Grid.Column="0">
+                 <Grid>
+                 <GridRowDefinitions>
+                 <RowDefinition Height="*"/>
+                 <RowDefinition Height="*"/>
+                 <GridRowDefinitions>
+
+           <Label X:Name="Labeltemp"
+                  Grid.Row="0"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </ContentPage>

@@ -4,7 +4,7 @@ namespace Guilherme;
 
 public static class MauiProgram
 {
-	public static MauiApp CreateMauiApp()
+	public static  CreateMauiApp()
 	{
 		var builder = MauiApp.CreateBuilder();
 		builder
