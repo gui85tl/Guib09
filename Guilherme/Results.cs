@@ -1,10 +1,8 @@
-using CoreImage;
-using MapKit;
-
 namespace Guilherme;
   public class Result
+
 {
-    public int temp {get; set;}
+    public string temp {get; set;}
     public string date {get; set;}
     public int time {get; set;}
     public string description {get; set;}

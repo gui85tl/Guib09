@@ -1,10 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Guilherme.MainPage">
+             x:Class="Guilherme.MainPage"
+             Shell.NavBarIsVisible="false">
 
 <Grid>
-        <Image Source="city.jpg"/>
+       <Grid.Row.Definitions>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="80"/>
+          <RowDefinition Height="*"/>
+          <RowDefinition Height="200"/>
+       </Grid.RowDefinitions>
+       <GridColumnDefinitions>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+          <ColumnDefinition Width="*"/>
+        <GridColumnDefinitions> <Image Source="city.jpg"/> 
+
+        
         <Label Text= "Black"
          Margin= "20"
          HorizontalStackLayout="20"
