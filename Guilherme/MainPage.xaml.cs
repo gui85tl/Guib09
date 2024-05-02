@@ -16,7 +16,8 @@ public class MainPage : ContentPage
 	{
 		results.temp=25;
 		results.description="Tempo Nublado"
-		results.condition=
+		results.time="20"
+		
 	}
   
 }

@@ -1,10 +1,8 @@
-using System.Net;
-using System.Text.Json;
-using Network;
-
-async void AtualizaTempo()
+namespace Guilherme;
+public class resultado
 {
-    try
+public Results results{get;set;}
+}
     {
         var navegador = new HttpClient();
         var navegador = await navegador.GetAsync(url);
