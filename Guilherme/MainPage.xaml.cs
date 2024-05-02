@@ -17,7 +17,7 @@ public class MainPage : ContentPage
 		results.temp=25;
 		results.description="Tempo Nublado"
 		results.time="20"
-		
+
 	}
   
 }
@@ -27,4 +27,4 @@ public class MainPage : ContentPage
 
 		Labeltemp.Text= resposta.results.temp.Temp ToString();
 		
-		
+	   }
